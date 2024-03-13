@@ -3,7 +3,7 @@
   "moduleUUID": "65f1a68ceab674621f25016f",
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
-    "version": "0.0.4",
+    "version": "0.0.6",
     "name": "QueryModule2_1",
     "contextType": "PAGE",
     "pageId": "Page1 Copy",
@@ -12,12 +12,11 @@
     "jsonPathKeys": [],
     "isValid": false,
     "invalids": [
-      "Module instance does not have a valid module reference in the workspace. Please import package \"New Untitled Package 1 W/0 publish\" to your current workspace to resolve this issue."
+      "Module instance does not have a valid module reference in the workspace. Please import package \"Untitled Package 1 W publish\" to your current workspace to resolve this issue."
     ],
     "invalidState": {
-      "packageName": "New Untitled Package 1 W/0 publish",
-      "moduleName": "QueryModule2",
-      "originPackageId": "65f1f6ae0f4d1727c7cc9624"
+      "packageName": "Untitled Package 1 W publish",
+      "moduleName": "QueryModule2"
     },
     "userPermissions": []
   },
