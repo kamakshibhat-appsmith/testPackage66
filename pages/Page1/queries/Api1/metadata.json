@@ -19,10 +19,8 @@
     "pageId": "Page1",
     "contextType": "PAGE",
     "executeOnLoad": false,
-    "isValid": false,
-    "invalids": [
-      "No configurations found in this action"
-    ],
+    "isValid": true,
+    "invalids": [],
     "messages": [],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
