@@ -10,8 +10,14 @@
     "inputs": {},
     "moduleInputs": {},
     "jsonPathKeys": [],
-    "isValid": true,
-    "invalids": [],
+    "isValid": false,
+    "invalids": [
+      "Module instance does not have a valid module reference in the workspace. Please import package \"API only p\" to your current workspace to resolve this issue."
+    ],
+    "invalidState": {
+      "packageName": "API only p",
+      "moduleName": "Api1Module"
+    },
     "userPermissions": []
   },
   "id": "Page1 Copy_Api1",
